@@ -16,4 +16,31 @@ for game in games:
 
 num = input('choose a number:'
             clear
-            
+    clear        
+
+
+
+
+
+
+
+
+
+user = 'one to ten!'
+if len(user) > 10:
+    print('too long')
+elif len(user) < 10:
+    print('too short')
+else:
+    print('perfect')
+    
+
+
+    user = 'one to ten!'
+
+if len(user) > 10:
+    print('too long')
+elif len(user) < 10:
+    print('too short')
+else:
+    print('perfect')
