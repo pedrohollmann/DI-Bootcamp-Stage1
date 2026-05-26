@@ -1,4 +1,4 @@
-#Exercise 1 - 
+#Exercise 1 - currencies
 
 class Currency:
     def __init__(self, currency, amount):
